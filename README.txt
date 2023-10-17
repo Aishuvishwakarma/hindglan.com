@@ -1,6 +1,6 @@
 
-TITLE: 
-Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant
+TITLE: hindglan.com || make kitchen perfact
+
 
 AUTHOR:
 DESIGNED & DEVELOPED by Code-a-mon technolodgy
